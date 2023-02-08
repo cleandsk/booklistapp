@@ -1,4 +1,4 @@
 {
-    "mongoURI":"mongodb+srv://kelvin:1234@cluster0.dkd73ha.mongodb.net/?retryWrites=true&w=majority"
+    "mongoURI":"mongodb+srv://kelvin:@cluster0.dkd73ha.mongodb.net/?retryWrites=true&w=majority"
 }
 
